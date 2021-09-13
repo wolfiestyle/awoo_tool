@@ -1,0 +1,15 @@
+[package]
+name = "awoo_tool"
+version = "0.2.0"
+authors = ["wolfiestyle <slayerbeast@gmail.com>"]
+description = "awoo"
+repository = "https://github.com/wolfiestyle/awoo_tool"
+readme = "README.md"
+keywords = ["wolf", "waff", "awoo", "gui", "gtk"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+gtk = "0.14.1"
+glib = "0.14.5"
+rand = "0.8.4"
